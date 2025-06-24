@@ -16,5 +16,5 @@ Operation:
 
 #>
 
-$command = "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads\ahsaxiomagent.exe"
+$command = "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads\agent.exe"
 Start-Process -FilePath $command 
